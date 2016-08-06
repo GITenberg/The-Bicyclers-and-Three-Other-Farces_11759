@@ -1,0 +1,30 @@
+_repo: The-Bicyclers-and-Three-Other-Farces_11759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: The bicyclers.--A dramatic evening.--The fatal message.--A proposal under
+  difficulties.
+gutenberg_bookshelf: One Act Plays
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Comedies'
+- !lcsh 'American drama -- 19th century'
+- GITenberg
+tableOfContents: The bicyclers -- A dramatic evening -- The fatal message -- A proposal
+  under difficulties.
+title: The Bicyclers and Three Other Farces
+url: http://www.gutenberg.org/ebooks/11759
